@@ -1,0 +1,1 @@
+You need to add your stripe keys on keys_dev.js for the app to work!!!
